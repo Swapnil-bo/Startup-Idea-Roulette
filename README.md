@@ -293,8 +293,6 @@ The frontend re-parses the **entire accumulated buffer** on every chunk. No incr
 
 ## Built With
 
-Part of the **100 Days of Vibe Coding** challenge.
-
 Built step-by-step with **Claude Code** — 16 incremental commits, one per build phase, from empty directory to full-stack streaming app.
 
 ---
